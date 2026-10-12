@@ -1,5 +1,5 @@
 /* CONFIGURAÇÃO DA LOJA: preencha o WhatsApp abaixo com DDI + DDD + número, apenas dígitos. Ex.: 5564999999999 */
-const STORE = { whatsapp: "", name: "Empório Frios Pastelaria PBA" };
+const STORE = { whatsapp: "+556499307-9562", name: "Empório Frios Pastelaria PBA" };
 const products = [
  {id:1,name:"Pastel tradicional",category:"Pastéis",description:"Pastel crocante com recheio clássico.",price:12.00,image:"https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=700&q=85",tag:"Queridinho"},
  {id:2,name:"Combo de salgados",category:"Salgados",description:"Uma seleção saborosa para compartilhar.",price:18.00,image:"https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=700&q=85",tag:"Para dividir"},
